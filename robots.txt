@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://Simeonogunbunmi.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://simeonayokunmi.github.io/sitemap.xml
